@@ -1,0 +1,1 @@
+This is a Django-based web application in which automated CV is generated using user's input. The user has to provide his/her personal and educational information. The generated CV can be downloaded to the local machine in the pdf format. 
